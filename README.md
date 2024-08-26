@@ -25,11 +25,14 @@ Report
 
 Design
 ---
-![Screenshot 2024-08-14 at 2 09 05 PM](https://github.com/user-attachments/assets/c3a5d873-ce1d-4f95-9dd6-25bd8e56796a)
+![Page 1](https://github.com/user-attachments/assets/c3a5d873-ce1d-4f95-9dd6-25bd8e56796a)
+![Page 2](https://github.com/user-attachments/assets/b0917e8a-0761-4746-8498-0107eadf117e)
+![Page 3](https://github.com/user-attachments/assets/df91a58f-ecb3-46a9-a5e2-fc5e44129f9a)
+
 
 Links
 ---
-[Data Source](https://opendata.suffolkcountyny.gov/datasets/a857361de9c1403187f2d3129390f1d4_0/explore)
+[Dashboard](https://lookerstudio.google.com/reporting/3027e197-b2bb-485d-aa40-9fe468352925)
+[Data Source](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
-[Dashboard available on Tableau Public](https://public.tableau.com/app/profile/donnoban.maldonado/viz/CompensationExpendituresBreakdownSuffolkCountyNY/Dashboard1)
 
