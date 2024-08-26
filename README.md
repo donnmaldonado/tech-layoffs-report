@@ -19,9 +19,9 @@ Lastly, the AWS RDS instance is then connected to Looker where the data is visua
 
 Report
 ---
-* Overview: The first page of the report paints a broad picture of tech layoff metrics such as industries, employees, and companies affected.
-* Top 5 Companies Affected: The second page of the report dives deeper into the companies responsible for the most employees laid off.
-* Locations most Affected: The third page of the report aims at given geographical context behind the layoffs and allows the viewer to easily look at metrics for the 5 most affected cities in the US.
+1. Overview: Paints a broad picture of tech layoff metrics such as industries, employees, and companies affected.
+2. Top 5 Companies Affected: Dives deeper into the companies responsible for the most employees laid off.
+3. Locations most Affected: Aims at given geographical context behind the layoffs and allows the viewer to easily look at metrics for the 5 most affected cities in the US.
 
 Design
 ---
@@ -33,6 +33,7 @@ Design
 Links
 ---
 [Dashboard](https://lookerstudio.google.com/reporting/3027e197-b2bb-485d-aa40-9fe468352925)
+
 [Data Source](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
 
