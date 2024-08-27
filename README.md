@@ -23,7 +23,7 @@ Report
 
 **2. Top 5 Companies Affected:**  Dives deeper into the companies responsible for the most employees laid off.
 
-**3. Locations most Affected:**  Aims at given geographical context behind the layoffs and allows the viewer to easily look at metrics for the 5 most affected cities in the US.
+**3. Locations Most Affected:**  Aims at given geographical context behind the layoffs and allows the viewer to easily look at metrics for the 5 most affected cities in the US.
 
 Design
 ---
