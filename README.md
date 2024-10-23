@@ -34,9 +34,9 @@ Design
 
 Links
 ---
-==NOTE: AWS RDS free-tier expired and no MySQL instance is no longer live.==
+>NOTE: As of 10/23/2024 AWS RDS free-tier expired and MySQL instance is no longer live or connected to dashboard.
 
-[Dashboard](https://lookerstudio.google.com/reporting/3027e197-b2bb-485d-aa40-9fe468352925)
+~[Dashboard](https://lookerstudio.google.com/reporting/3027e197-b2bb-485d-aa40-9fe468352925)~
 
 [Data Source](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
 
